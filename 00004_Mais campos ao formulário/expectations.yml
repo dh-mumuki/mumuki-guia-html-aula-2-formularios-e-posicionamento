@@ -1,0 +1,32 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: body
+  inspection: DeclaresTag
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: form
+  inspection: DeclaresAttribute
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: form
+  inspection: DeclaresAttribute
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: form
+  inspection: DeclaresTag
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: form
+  inspection: DeclaresTag
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: input
+  inspection: DeclaresAttribute
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: input
+  inspection: DeclaresAttribute
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: input
+  inspection: DeclaresAttribute
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: input
+  inspection: DeclaresAttribute
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: label
+  inspection: DeclaresAttribute
