@@ -1,0 +1,11 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: form
+  inspection: DeclaresTag
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: form
+  inspection: DeclaresTag
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: button
+  inspection: DeclaresAttribute
