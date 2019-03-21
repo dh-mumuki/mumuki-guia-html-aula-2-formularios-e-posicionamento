@@ -2,10 +2,10 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: p
-  inspection: DeclaresTag
+  inspection: DeclaresTag:mark
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: p
-  inspection: DeclaresTag
+  inspection: DeclaresTag:strong
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: p
-  inspection: DeclaresTag
+  inspection: DeclaresTag:em
