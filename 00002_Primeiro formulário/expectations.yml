@@ -2,10 +2,10 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: body
-  inspection: DeclaresTag
+  inspection: DeclaresTag:form
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: form
-  inspection: DeclaresAttribute
+  inspection: DeclaresAttribute:method="POST"
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: form
-  inspection: DeclaresAttribute
+  inspection: DeclaresAttribute:action="resultado.html"
