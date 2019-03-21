@@ -2,10 +2,10 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: form
-  inspection: DeclaresTag
+  inspection: DeclaresTag:textarea
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: form
-  inspection: DeclaresTag
+  inspection: DeclaresTag:button
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: button
-  inspection: DeclaresAttribute
+  inspection: DeclaresAttribute:type="submit"
