@@ -2,22 +2,22 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: form
-  inspection: DeclaresTag
+  inspection: DeclaresTag:label
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: form
-  inspection: DeclaresTag
+  inspection: DeclaresTag:select
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: select
-  inspection: DeclaresAttribute
+  inspection: DeclaresAttribute:name
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: select
-  inspection: DeclaresAttribute
+  inspection: DeclaresAttribute:id
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: label
-  inspection: DeclaresAttribute
+  inspection: DeclaresAttribute:for
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: select
-  inspection: DeclaresTag
+  inspection: DeclaresTag:option
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: option
-  inspection: DeclaresAttribute
+  inspection: DeclaresAttribute:value
