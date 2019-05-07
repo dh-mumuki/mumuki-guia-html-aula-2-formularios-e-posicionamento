@@ -2,31 +2,31 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: body
-  inspection: DeclaresTag
+  inspection: DeclaresTag:form
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: form
-  inspection: DeclaresAttribute
+  inspection: DeclaresAttribute:action="resultado.html"
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: form
-  inspection: DeclaresAttribute
+  inspection: DeclaresAttribute:method="POST"
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: form
-  inspection: DeclaresTag
+  inspection: DeclaresTag:label
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: form
-  inspection: DeclaresTag
+  inspection: DeclaresTag:input
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: input
-  inspection: DeclaresAttribute
+  inspection: DeclaresAttribute:type="text"
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: input
-  inspection: DeclaresAttribute
+  inspection: DeclaresAttribute:type="email"
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: input
-  inspection: DeclaresAttribute
+  inspection: DeclaresAttribute:type="password"
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: input
-  inspection: DeclaresAttribute
+  inspection: DeclaresAttribute:required
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: label
-  inspection: DeclaresAttribute
+  inspection: DeclaresAttribute:for
