@@ -2,4 +2,4 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:div
-  inspection: 'DeclaresStyle:margin: 10px'
+  inspection: 'DeclaresStyle:margin:width: 100px'
