@@ -23,7 +23,7 @@ expectations:
   inspection: DeclaresAttribute:for="nome"
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: input
-  inspection: DeclaresAttribute:id="nombre"
+  inspection: DeclaresAttribute:id="nome"
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: input
   inspection: DeclaresAttribute:nome
