@@ -1,6 +1,6 @@
 Nós já temos um formulário bastante completo!
 
-No entanto, estamos perdendo algo fundamental. O usuário não pode enviar os dados do formulário: .:sob:.
+No entanto, estamos perdendo algo fundamental. O usuário não pode enviar os dados do formulário: :sob:
 
 Para isso pedimos que:
 
