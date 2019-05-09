@@ -8,4 +8,4 @@ Nós já temos um formulário!
 
 > 2. Uma tag `input` com atributo` type` e valor ** text ** para que o usuário possa inserir seu nome. Deve ter o atributo `id` com o valor ** nome **. Finalmente, este `input` também deve declarar o atributo ` name` com o valor ** nome **, pois se este atributo não aparecer, o campo não será enviado como resultado.
 
-Lembre-se que se os atributos `for` da tag label e o atributo `id` do label input estiverem configurados corretamente, ao clicar no label o cursor é automaticamente posicionado na entrada relacionada.
+Lembre-se que se os atributos `for` da tag label e o atributo `id` do label input estiverem configurados corretamente, ao clicar no label o cursor é automaticamente posicionado na entrada relacionada..
