@@ -5,7 +5,7 @@ expectations:
   inspection: DeclaresTag:form
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: input
-  inspection: DeclaresAttribute:name
+  inspection: DeclaresAttribute:name="enviar"
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: input
   inspection: DeclaresAttribute:type="submit"
