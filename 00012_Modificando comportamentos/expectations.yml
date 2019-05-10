@@ -1,10 +1,10 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: css:div#primeiro
+  binding: css:#primeiro
   inspection: DeclaresStyle:display:inline
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: css:div#segundo
+  binding: css:#segundo
   inspection: DeclaresStyle:display:none
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:span
