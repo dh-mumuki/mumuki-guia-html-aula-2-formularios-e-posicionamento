@@ -11,7 +11,10 @@ expectations:
   inspection: DeclaresAttribute:name="pet"
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: input
-  inspection: DeclaresAttribute:value
+  inspection: DeclaresAttribute:value="sim"
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: form
   inspection: DeclaresTag:label
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: input
+  inspection: DeclaresAttribute:value="nao"
