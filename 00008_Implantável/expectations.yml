@@ -14,7 +14,7 @@ expectations:
   inspection: DeclaresAttribute:id
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: label
-  inspection: DeclaresAttribute:for
+  inspection: DeclaresAttribute:for="mes"
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: select
   inspection: DeclaresTag:option

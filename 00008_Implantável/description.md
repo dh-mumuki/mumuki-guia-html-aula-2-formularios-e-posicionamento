@@ -2,7 +2,7 @@ Vamos criar um menu suspenso para que o usuário possa selecionar um mês (janei
 
 > Para isso, pedimos-lhe que dentro da form você escreva:
 
-> 1. Um `label` escrito " Escolha um mês "
+> 1. Um `label` com `for = "mes"` escrito " Escolha um mês "
 
 > 2. Uma tag `select` com atributo e valor `name ="mes"` e um segundo atributo `id = "mes"` para que o label funcione bem
 
