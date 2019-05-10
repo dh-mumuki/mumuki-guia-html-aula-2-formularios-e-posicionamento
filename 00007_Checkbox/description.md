@@ -6,7 +6,7 @@ Pedimos que dentro do formulário:
 
 > 1. Você cria um 'label' que pergunta: Quais são seus hobbies?
 
-> 2. Você cria 3 labels `input` com` type = "checkbox" `com as seguintes opções: Pescar, Correr e Yoga
+> 2. Você cria 3 `input` com ` type = "checkbox" `com as seguintes opções: Pescar, Correr e Yoga
 
 > 3. Adicione o atributo `name =" hobby "` a toda a entrada para que ela seja associada ao mesmo campo.
 
