@@ -1,5 +1,5 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: div
-  inspection: DeclaresTag:div
+  binding: p
+  inspection: DeclaresTag:span
