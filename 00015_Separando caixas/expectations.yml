@@ -21,3 +21,9 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:header
   inspection: DeclaresStyle:padding-bottom:5px
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:header
+  inspection: 'DeclaresStyle:margin-bottom: 15pxx'
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:header
+  inspection: 'DeclaresStyle:box-sizing: border-box'
