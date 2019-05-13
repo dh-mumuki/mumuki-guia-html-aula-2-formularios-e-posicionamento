@@ -14,7 +14,7 @@ expectations:
   inspection: DeclaresStyle:border-color:red
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:header
-  inspection: 'DeclaresStyle:padding: 10px'
+  inspection: DeclaresStyle:padding:10px
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:header
   inspection: DeclaresStyle:margin-bottom:15px
