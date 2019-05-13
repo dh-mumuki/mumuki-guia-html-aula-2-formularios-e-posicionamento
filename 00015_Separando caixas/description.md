@@ -9,7 +9,7 @@ O site tem:
 
 Seu trabalho será estilizar o site ...
 
-Para o `<header>`:
+Para o `<header>`
 
 > 1. Cor de fundo preto
 > 2. Tipografia Branca
