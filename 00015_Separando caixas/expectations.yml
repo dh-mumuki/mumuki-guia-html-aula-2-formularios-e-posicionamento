@@ -17,7 +17,7 @@ expectations:
   inspection: 'DeclaresStyle:padding-top: 5px'
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:header
-  inspection: 'DeclaresStyle:margin-botton: 15px'
+  inspection: 'DeclaresStyle:margin-bottom: 15px'
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:header
   inspection: 'DeclaresStyle:box-sizing: border-box'
