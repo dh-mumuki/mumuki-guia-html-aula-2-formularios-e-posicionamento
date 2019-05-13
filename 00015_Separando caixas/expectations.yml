@@ -11,7 +11,7 @@ expectations:
   inspection: DeclaresStyle:font-size:28px
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:header
-  inspection: DeclaresStyle:border:1px
+  inspection: DeclaresStyle:border:1px solid red
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:header
   inspection: DeclaresStyle:padding-left:10px
