@@ -1,4 +1,4 @@
-Ufff ... esse posicionamento tem sido difícil ...:scream:
+Uff ... esse posicionamento tem sido difícil ...:scream:
 
 No entanto, agora podemos colocar itens lado a lado
 :sunglasses:
