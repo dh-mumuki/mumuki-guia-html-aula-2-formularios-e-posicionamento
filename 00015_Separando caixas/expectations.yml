@@ -1,5 +1,5 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: css:div
-  inspection: 'DeclaresStyle:font-size: 10px;'
+  binding: css:header
+  inspection: 'DeclaresStyle:background-color: black'
