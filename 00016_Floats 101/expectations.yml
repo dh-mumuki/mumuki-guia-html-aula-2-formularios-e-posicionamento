@@ -8,4 +8,4 @@ expectations:
   inspection: DeclaresStyle:float:right
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:article
-  inspection: DeclaresStyle:float:leftt
+  inspection: DeclaresStyle:float:left
