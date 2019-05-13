@@ -11,4 +11,4 @@ expectations:
   inspection: DeclaresStyle:font-size:28px
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:header
-  inspection: DeclaresStyle:border:1px solid red
+  inspection: 'DeclaresStyle:border: 1px solid red'
