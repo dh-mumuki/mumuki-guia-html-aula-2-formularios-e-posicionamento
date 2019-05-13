@@ -6,3 +6,6 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:section
   inspection: DeclaresStyle:overflow:hidden
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: 'css: article'
+  inspection: 'DeclaresStyle:width: 20%'
