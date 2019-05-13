@@ -17,7 +17,7 @@ expectations:
   inspection: DeclaresStyle:padding-left:10px
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:header
-  inspection: 'DeclaresStyle:padding-top: 5pc'
+  inspection: DeclaresStyle:padding-top:5px
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:header
-  inspection: 'DeclaresStyle:padding-bottom: 5px'
+  inspection: DeclaresStyle:padding-bottom:5px
