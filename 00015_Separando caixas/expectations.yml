@@ -11,13 +11,13 @@ expectations:
   inspection: 'DeclaresStyle:font-size: 28px'
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:header
-  inspection: 'DeclaresStyle:padding-text: 5px'
+  inspection: 'DeclaresStyle:border: 1px solid red'
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:header
-  inspection: 'DeclaresStyle:padding-top: 5px'
+  inspection: 'DeclaresStyle:padding: 5px 0'
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:header
-  inspection: 'DeclaresStyle:margin-bottom: 15px'
+  inspection: 'DeclaresStyle:padding-left: 5px'
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:header
   inspection: 'DeclaresStyle:box-sizing: border-box'

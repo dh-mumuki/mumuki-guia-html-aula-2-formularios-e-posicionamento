@@ -14,7 +14,7 @@ Para o `<header>`:
 > 1. Cor de fundo preto
 > 2. Tipografia Branca
 > 3. Tamanho da fonte em 28px
-> 4. Uma borda vermelha "sólida" em seu limite inferior de 1px
+> 4. Uma borda vermelha "sólida" de 1px
 > 5. Preenchimento para cima e para baixo 5px
 > 6. Padding à esquerda de 10px
 > 7. Uma margem abaixo de 15px para separar o cabeçalho da seção principal
