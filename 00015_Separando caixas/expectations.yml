@@ -8,7 +8,7 @@ expectations:
   inspection: 'DeclaresStyle:color: white'
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:header
-  inspection: DeclaresStyle:font-size:28px
+  inspection: 'DeclaresStyle:font-size: 28px'
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:header
   inspection: 'DeclaresStyle:padding-text: 5px'
