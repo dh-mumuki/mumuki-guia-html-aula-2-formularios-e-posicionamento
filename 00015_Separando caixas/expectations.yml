@@ -9,3 +9,6 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:header
   inspection: DeclaresStyle:font-size:28px
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:header
+  inspection: 'DeclaresStyle:border: 1px solid red'
