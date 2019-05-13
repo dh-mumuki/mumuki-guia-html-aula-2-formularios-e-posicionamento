@@ -1,9 +1,6 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: 'css: article'
-  inspection: 'DeclaresStyle:float: left'
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: 'css: section'
   inspection: DeclaresStyle:overflow:hidden
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
@@ -12,3 +9,12 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: 'css: article'
   inspection: 'DeclaresStyle:margin-left: 25%'
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: 'css: article'
+  inspection: 'DeclaresStyle:float: left'
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: 'css: article'
+  inspection: 'DeclaresStyle:margin-right: 25%'
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: 'css: article'
+  inspection: 'DeclaresStyle:box-sizing: border-box'
