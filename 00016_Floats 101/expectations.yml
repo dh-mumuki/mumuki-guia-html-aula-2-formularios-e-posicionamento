@@ -1,11 +1,11 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: 'css: section'
-  inspection: DeclaresStyle:overflow:hidden
+  binding: css:section
+  inspection: 'DeclaresStyle:overflow: hidden'
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: 'css: section'
+  binding: css:section
   inspection: 'DeclaresStyle:float: right'
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: 'css: article'
+  binding: css:article
   inspection: 'DeclaresStyle:float: left'
