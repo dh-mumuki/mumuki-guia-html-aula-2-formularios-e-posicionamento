@@ -38,7 +38,7 @@ expectations:
   inspection: DeclaresStyle:margin-left:25%
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:section
-  inspection: 'DeclaresStyle:background-color: gainsboro'
+  inspection: DeclaresStyle:background-color:gainsboro
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:section
   inspection: DeclaresStyle:margin-bottom:15px
