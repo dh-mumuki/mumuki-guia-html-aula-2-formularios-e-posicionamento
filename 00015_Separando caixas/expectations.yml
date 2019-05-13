@@ -1,7 +1,7 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: header
+  binding: css:header
   inspection: 'DeclaresStyle:background-color: black'
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:header
