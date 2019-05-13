@@ -9,7 +9,7 @@ O site tem:
 
 Seu trabalho será estilizar o site ...
 
-Para o `<header>`
+Para o `<header>`:
 
 > 1. Cor de fundo preto
 > 2. Tipografia Branca
@@ -23,7 +23,7 @@ Para o `<header>`
 
 Para a `<section>`:
 
-> 1. 50% de largura do seu contêiner
+> 1. 50% de largura do seu container
 > 2. Margem à esquerda de 25%
 > 3. Cor de fundo "gainsboro"
 > 4. Margem abaixo de 15px para separá-lo do rodapé
