@@ -5,4 +5,4 @@ expectations:
   inspection: DeclaresStyle:background-color:black
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:header
-  inspection: 'DeclaresStyle:color: white'
+  inspection: DeclaresStyle:color:white
