@@ -15,7 +15,8 @@ Para o `<header>`:
 > 2. Tipografia Branca
 > 3. Tamanho da fonte em 28px
 > 4. Uma borda vermelha "sólida" de 1px
-> 5. Preenchimento para cima e para baixo 5px
+> 5. Padding para cima de 5px.
+> 6. Padding para baixo de 5px.
 > 6. Padding à esquerda de 10px
 > 7. Uma margem abaixo de 15px para separar o cabeçalho da seção principal
 > 8. Não esqueça o dimensionamento da caixa :sunglasses:
