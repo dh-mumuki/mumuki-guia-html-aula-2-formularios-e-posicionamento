@@ -4,14 +4,8 @@ expectations:
   binding: 'css: section'
   inspection: DeclaresStyle:overflow:hidden
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: 'css: article'
-  inspection: 'DeclaresStyle:width: 20%'
+  binding: 'css: section'
+  inspection: 'DeclaresStyle:float: right'
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: 'css: article'
-  inspection: 'DeclaresStyle:margin-left: 25%'
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: 'css: article'
-  inspection: 'DeclaresStyle:margin-right: 25%'
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: 'css: article'
-  inspection: 'DeclaresStyle:box-sizing: border-box'
+  inspection: 'DeclaresStyle:float: left'
