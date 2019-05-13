@@ -12,3 +12,6 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:header
   inspection: 'DeclaresStyle:border: 1px solid red'
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:header
+  inspection: 'DeclaresStyle:padding-left: 10px'
