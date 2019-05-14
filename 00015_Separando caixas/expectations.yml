@@ -36,3 +36,18 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:section
   inspection: DeclaresStyle:margin-bottom:15px
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:section
+  inspection: 'DeclaresStyle:padding: 10px'
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:section
+  inspection: 'DeclaresStyle:border-color: black'
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:section
+  inspection: 'DeclaresStyle:border-style: dashed'
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:section
+  inspection: 'DeclaresStyle:border-radius: 5px'
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:section
+  inspection: 'DeclaresStyle:box-sizing: border-box'
