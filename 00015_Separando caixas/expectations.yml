@@ -53,19 +53,19 @@ expectations:
   inspection: DeclaresStyle:box-sizing:border-box
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:footer
-  inspection: 'DeclaresStyle:background-color: black'
+  inspection: DeclaresStyle:background-color:black
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:footer
-  inspection: 'DeclaresStyle:border-color: red'
+  inspection: DeclaresStyle:border-color:red
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:footer
-  inspection: 'DeclaresStyle:border-style: solid'
+  inspection: DeclaresStyle:border-style:solid
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:footer
-  inspection: 'DeclaresStyle:padding: 5px'
+  inspection: DeclaresStyle:padding:5px
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:footer
-  inspection: 'DeclaresStyle:height: 40px'
+  inspection: DeclaresStyle:height:40px
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:footer
-  inspection: 'DeclaresStyle:box-sizing: border-box'
+  inspection: DeclaresStyle:box-sizing:border-box
