@@ -11,10 +11,10 @@ expectations:
   inspection: DeclaresStyle:width:20%
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:article
-  inspection: DeclaresStyle:margin-left:25%
+  inspection: DeclaresStyle:margin-left:2.5%
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:article
-  inspection: DeclaresStyle:margin-right:25%
+  inspection: DeclaresStyle:margin-right:2.5%
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: css:article
   inspection: DeclaresStyle:box-sizing:border-box
