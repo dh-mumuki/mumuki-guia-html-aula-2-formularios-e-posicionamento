@@ -10,8 +10,8 @@ Tendo visto como esses elementos se comportam por padrão, modificaremos seu com
 
 Por isso, pedimos que você modifique 3 coisas:
 
-> 1. Um seletor para o `<div>` com id **primeiro** com a regra `display: inline;` transformando assim o primeiro `<div>` para uma linha **label**
+> 1. Um seletor para o `id` **primeiro** com a regra `display: inline;` transformando assim o primeiro elemento para uma linha **label**
 
-> 2. Um seletor para o `<div>` com id **segundo** com a regra `display: none;` fazendo o segundo `<div>` este oculto
+> 2. Um seletor para o `id` **segundo** com a regra `display: none;` fazendo o segundo elemento estar oculto
 
-> 3. Um seletor para o `<span>` com a regra `display: block;` transformando assim o primeiro `<div>` em uma linha **label**
+> 3. Um seletor para o `<span>` com a regra `display: block;` transformando assim o primeiro elemento em uma linha **label**
