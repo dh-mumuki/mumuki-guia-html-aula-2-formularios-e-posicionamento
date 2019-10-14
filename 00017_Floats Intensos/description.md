@@ -4,9 +4,10 @@ Não só vamos pedir-lhe para flutuar, mas também é importante que você possa
 
 Esta é a sua tarefa:
 
-> 1. Adicione as regras de flutuação que você já deve saber sobre o exercício anterior
-> 2. Dê a cada um dos artigos uma largura de 20% (soma total de 80%!)
-> 3. Dê a cada item 2.5% de margem esquerda e 2.5% de margem direita **Observe que o ponto é usado e não vírgula!**
+> 1. Já adicionamos as regras de flutuação do exercício anterior para lhe auxiliar
+> 2. Dê ao artigo uma largura de 20% como temos 4 artigos
+(soma total de 80%!)
+> 3. Dê ao artigo 2.5% de margem esquerda e 2.5% de margem direita **Observe que o ponto é usado e não vírgula!**
 
 Agora sim, 4 itens com 20% de largura nos dão 80%. Mas se cada um também tem uma margem de 5% (2,5% em cada lado), atingimos o total acumulado de 100% !!!!
 
